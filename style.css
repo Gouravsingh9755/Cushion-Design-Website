@@ -108,7 +108,7 @@ html, body{
     height: 90vh;
     width: 60vw;
     background-color: rgb(32, 101, 148);
-    background-image: url(./page-1-main-img.jpg);
+    background-image: url(./images/page-1-main-img.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
